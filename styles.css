@@ -3,3 +3,26 @@ body {
     font-family: 'Luckiest Guy', cursive;
 }
 
+div {
+    text-align: center;
+  }
+
+ div.a {
+    text-align: left;
+ }
+
+ div.b {
+    text-align: center;
+ }
+
+ div.c {
+    text-align: right;
+ }
+
+ div.d {
+    text-align: left;
+ }
+
+ div.e {
+    text-align: right;
+ }
