@@ -26,3 +26,19 @@ div {
  div.e {
     text-align: right;
  }
+
+ div.f {
+    text-align: left;
+ }
+
+ div.g {
+    text-align: center;
+ }
+
+ div.h {
+    text-align: right;
+ }
+
+div {
+   border-radius: 100%;
+}
